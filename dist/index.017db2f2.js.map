@@ -1,1 +1,0 @@
-{"mappings":"AAAA,KAAK,CAAC,CAAC,GAAG,EAAE;AACZ,KAAK,CAAC,CAAC,GAAG,EAAE;AACZ,OAAO,CAAC,GAAG,CAAC,CAAc,eAAE,CAAC,GAAG,CAAC","sources":["src/index.js"],"sourcesContent":["const a = 10;\r\nconst b = 10;\r\nconsole.log(\"The sum is -\", a + b);"],"names":[],"version":3,"file":"index.017db2f2.js.map","sourceRoot":"/__parcel_source_root/"}
