@@ -2,10 +2,11 @@
   "name": "parcel-react-typescript-sass",
   "version": "1.0.0",
   "description": "A parcel project experimenting a toolchain containing React, Parcel, typescript and Sass.",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "main": "index.js",
   "source": "public/index.html",
   "scripts": {
-    "serve": "parcel",
+    "serve": "parcel --port 3000 --open",
     "build": "parcel build"
   },
   "repository": {
