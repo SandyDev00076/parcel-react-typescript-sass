@@ -1,0 +1,25 @@
+{
+  "name": "parcel-react-typescript-sass",
+  "version": "1.0.0",
+  "description": "A parcel project experimenting a toolchain containing React, Parcel, typescript and Sass.",
+  "main": "index.js",
+  "source": "public/index.html",
+  "scripts": {
+    "serve": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandyDev00076/parcel-react-typescript-sass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandyDev00076/parcel-react-typescript-sass/issues"
+  },
+  "homepage": "https://github.com/SandyDev00076/parcel-react-typescript-sass#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
