@@ -6,7 +6,7 @@
   "main": "index.js",
   "source": "public/index.html",
   "scripts": {
-    "serve": "parcel --port 3000 --open",
+    "serve": "tsm src && parcel --port 3000 --open",
     "build": "parcel build"
   },
   "repository": {
@@ -23,7 +23,9 @@
   "devDependencies": {
     "@types/react": "^17.0.33",
     "@types/react-dom": "^17.0.10",
-    "parcel": "^2.0.0"
+    "node-sass": "^6.0.1",
+    "parcel": "^2.0.0",
+    "typed-scss-modules": "^4.1.1"
   },
   "dependencies": {
     "react": "^17.0.2",
